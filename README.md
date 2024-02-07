@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juniorGek
-- 👀 I’m interested in ...la programmation
-- 🌱 I’m currently learning  différentes langage comme  python,java,c,c++
-- 💞️ I’m looking to collaborate on ...les différentes projets interessants
+- 👀 I'm interested in mobile and web programming (Django, react native)
+- 🌱 I learn different languages like python, NextJs,
+- 💞️ I collaborated with others on different interesting projects
 - 📫 How to reach me ...
 jikissemeglo@gmail.com
 ou sur  télégramme au +22870328810
